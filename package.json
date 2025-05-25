@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "keywords": ["timestamp", "api", "date", "express"],
-  "author": "Dio Ferdi Jaya",
+  "author": "Muhammad Azani irvand",
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
